@@ -1,0 +1,24 @@
+/* style.css */
+
+.first,
+.cooler,
+.second {
+    background-color: rgba(255, 0, 0, 0.35);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#even {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler,
+#another-one {
+    font-size: 24px;
+}
+
+#another-one {
+    /* font-size: 24px; */
+    font-weight: bold;
+    background-color: rgba( 000, 255, 000, 0.5);
+}
